@@ -1,1 +1,4 @@
-# SHARK-AI
+streamlit
+langchain-ollama
+langchain-core
+langgraph
