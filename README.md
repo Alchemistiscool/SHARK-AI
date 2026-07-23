@@ -1,4 +1,10 @@
 streamlit
-langchain-ollama
+psutil
+faiss-cpu
+pypdf
+gTTS
+langchain-community
 langchain-core
+langchain-ollama
 langgraph
+duckduckgo-search
